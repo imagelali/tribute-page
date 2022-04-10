@@ -1,0 +1,18 @@
+h1 {
+    font-family:"Libre",serif;
+  }
+  h2 {
+    font-family:"Brush Script MT",cursive;
+  }
+  h3,h4 {
+    font-family:"Mulis",serif;
+  }
+  p {
+    font-family:monospace;
+  }
+  img {
+    max-width: 100%;
+    display:block;
+    height: auto;
+    margin: 0 auto;
+  }
